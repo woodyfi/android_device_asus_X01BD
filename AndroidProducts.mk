@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_X01BD.mk
+    $(LOCAL_DIR)/voltage_X01BD.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_X01BD-eng \
-    arrow_X01BD-user \
-    arrow_X01BD-userdebug
+    voltage_X01BD-eng \
+    voltage_X01BD-user \
+    voltage_X01BD-userdebug
