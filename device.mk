@@ -16,9 +16,7 @@ DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay
 
 PRODUCT_PACKAGES += \
-    NoCutoutOverlay \
-    X01BDFrameworksResOverlay \
-    X01BDSystemUIOverlay
+    NoCutoutOverlay
 
 # Ramdisk
 PRODUCT_PACKAGES += \
